@@ -11,7 +11,7 @@
 
 source $BIN_DIR/utils
 
-VENDORED_GIT_PREFIX="https://raw.githubusercontent.com/thenovices/npscipy-binaries/master"
+VENDORED_GIT_PREFIX="https://raw.githubusercontent.com/s-bondarenko/npscipy-binaries/master"
 PY_PKGS="python/lib/python2.7/site-packages"
 
 function install_binaries {
